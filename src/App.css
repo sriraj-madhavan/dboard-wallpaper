@@ -1,0 +1,13 @@
+body {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #000;
+    background-size: cover;
+    background-image: url(https://wallpaperaccess.com/full/38175.jpg);
+    transition: background 1s ease-in-out;
+  }
+  
+  
